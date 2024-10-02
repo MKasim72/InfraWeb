@@ -524,7 +524,9 @@ p{
         user-select: none;
         height: 10rem;
         pointer-events: none;
+        
     }
+
 }
 
 
@@ -620,6 +622,15 @@ p{
                 font-size: 3rem;
             }
         }
+    }
+
+    .logo-container{
+
+        /* background: var(--light-bg); */
+        text-align: center;
+    
+
+    
     }
 }
 
